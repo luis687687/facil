@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@700&family=Inter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@700&family=Inter:wght@500&family=Montserrat:wght@500&family=Telex&display=swap');
+
+@font-face{
+    font-family: "Montserrat_regular";
+    src: url("./Fonts/static/Montserrat-Regular.ttf");
+    
+
+}
+@font-face{
+    font-family: "Montserrat_medium";
+    src: url("./Fonts/static/Montserrat-Medium.ttf");
+    
+
+}
+
+@font-face{
+    font-family: "Montserrat_bold";
+    src: url("./Fonts/static/Montserrat-Bold.ttf");
+    
+
+}
+@font-face{
+    font-family: "Montserrat_semibold";
+    src: url("./Fonts/static/Montserrat-SemiBold.ttf");
+    
+
+}
+@font-face{
+    font-family: "teste";
+    src: url("./Fonts/Montserrat-Italic-VariableFont_wght.ttf");
+}
+
+@font-face{
+    font-family: "Montserrat_semibold";
+    src: url("./Fonts/static/Montserrat-SemiBold.ttf");
+    
+
+}
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat_medium" !important;
+
+}
+body{
+    font-family: "Montserrat_medium" !important;
+}
+a{
+    text-decoration: none;
+    color: initial;
+}
+body{
+    width: 100%;
+    overflow-x: hidden;
+    
+}
+::-webkit-scrollbar{
+    width: 9px;
+    background-color: #2A2D35;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #189840;
+    border-radius: 10px;
+}
+
+
+
+.normal-text{
+    color: #2A2D35;
+    /* Body - 18 */
+    font-family: Inter !important;
+    font-size: 16px !important;
+    font-style: normal !important;
+    font-weight: 500;
+    line-height: normal !important;
+}
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root{
+    margin: 0
+}
+.css-1akjbnu-MuiFormControl-root-MuiTextField-root *{
+    margin: initial;
+    padding: initial
+}

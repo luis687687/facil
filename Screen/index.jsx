@@ -1,0 +1,7 @@
+export { default as Home } from "./Home"
+export { default as CarrosParaReservar } from "./CarrosParaReservar"
+export { default as Leilao } from "./Leilao"
+export { default as Reservar  } from "./Reservar"
+export { default as Login } from "./Login"
+export { default as Informativo } from "./Informativo"
+export { default as Account } from "./Account"
